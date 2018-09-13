@@ -2,6 +2,6 @@
 # passed into it and defaults to meat.
 def meal_choice()
   puts
-end
+return
 
 meal_choice(meat)
